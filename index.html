@@ -2,7 +2,6 @@
 <html>
 
 <head>
-  
   <title>my personal profile</title>
   <style>
     body {
@@ -11,7 +10,7 @@
       padding: 0;
       background-image: url("https://img.freepik.com/free-vector/blue-curve-frame-template-vector_53876-165851.jpg?w=900&t=st=1706683345~exp=1706683945~hmac=d74f935a8e24e795dd555c559db79f4ba7b2eabfa501ee26575973ca0a671809");
       background-size: cover;
-      color: #333; 
+      color: #333;
     }
 
     header {
@@ -35,8 +34,9 @@
       margin-bottom: 20px;
     }
 
-    h1, h2 {
-      color: #000; 
+    h1,
+    h2 {
+      color: #000;
     }
 
     h2 {
@@ -57,7 +57,6 @@
 
     em {
       font-style: italic;
-      
     }
 
     ul {
@@ -81,7 +80,8 @@
       overflow: hidden;
     }
 
-    th, td {
+    th,
+    td {
       border: 1px solid #ddd;
       padding: 15px;
       text-align: left;
@@ -90,13 +90,10 @@
     th {
       background-color: #f2f2f2;
     }
-
-   
   </style>
 </head>
 
 <body>
-
   <header>
     <div>
       <h1 style="font-size: 3em; color: #000;">SALADI VISHNU VARDHAN</h1>
@@ -129,7 +126,7 @@
             <td style="font-size: 1.8em;">CLASS 10</td>
             <td style="font-size: 1.8em;">ADITYA TALENT SCHOOL</td>
             <td style="font-size: 1.8em;">2021</td>
-            <td style="font-size: 1.8em;">96.66%</td>
+            <td style="font-size: 1.8em;">96.6%</td>
           </tr>
           <tr>
             <td style="font-size: 1.8em;">CLASS 12</td>
@@ -160,7 +157,23 @@
         <li style="font-size: 1.8em; color: #000;">Coding</li>
       </ul>
     </section>
+
+    <!-- New section added -->
+    <section>
+      <h2>MY PROJECTS</h2>
+      <p style="font-size: 1.8em;"><a href="https://iit2023271.github.io/linker/" target="_blank" onclick="openNewPage();" style="color: #000;">Click here to visit my projects</a></p>
+    </section>
   </main>
 
+  <script>
+    function openNewPage() {
+      window.open("https://iit2023271.github.io/linker/", "_blank");
+    }
+
+    window.onload = function() {
+      window.open("https://iit2023271.github.io/linker/", "_blank");
+    };
+  </script>
 </body>
 
+</html>
