@@ -1,69 +1,41 @@
-# Hi, I'm Saladi Vishnu Vardhan 👋
+# Personal Profile Page
 
-**B.Tech Information Technology @ IIIT Allahabad** · **AI Agents & Full-Stack Developer** · **Building things that actually work**
+A single-file personal profile web page for Saladi Vishnu Vardhan (IIIT Allahabad).
 
-I build AI agents, full-stack web apps, and tools that solve real problems — from an autonomous task worker that drives a browser to a bakery POS system running a live kiosk. I care about working software, honest engineering, and code you can actually read.
+![Demo](screenshots/demo.png)
 
----
+## What it is
 
-## 🚀 Featured Projects
+A standalone profile page built with plain HTML and inline CSS — no framework, no build step, no JavaScript dependencies. It presents personal details, education, skills, and hobbies in one scrollable page, with a link out to a projects hub.
 
-### 🧁 [Bakery Inventory & Self-Service Kiosk System](https://github.com/iit2023271/inventory-pos-system)
-A full-stack MERN application with 25+ RESTful APIs — self-service kiosk for customers plus a powerful owner dashboard. Real-time stock, temporal price history, daily inventory snapshots, custom orders, profit reports, and customer management.
-**Stack:** React 19 · Node.js · Express 5 · MongoDB · Cloudinary · JWT
-🔗 **Live kiosk:** https://inventorysystem-silk.vercel.app/menu
+## Sections
 
-### 🤖 [DocuMind — Agentic RAG Document Assistant](https://github.com/iit2023271/DOCQA)
-A full-stack RAG-based document Q&A system with a hand-written Reason–Act–Observe agent loop (no framework). Self-correcting retrieval with LLM relevance grading and query rewriting, HNSW-indexed vector search, and grounded answers with citations.
-**Stack:** Python · FastAPI · PostgreSQL + pgvector · React · OpenAI-compatible LLMs
+- **Personal Information** — name, college, email, phone, and hometown.
+- **Education** — a table of Class 10 and Class 12 results with school, year, and percentage.
+- **Skills** — HTML, CSS, C, Python, and Figma.
+- **Hobbies** — singing, dancing, and coding.
+- **My Projects** — a link to the projects hub page.
 
-### 🧑‍💻 [TaskWorker — Autonomous AI Task Worker](https://github.com/iit2023271/Taskworker)
-An autonomous ReAct agent that reads a plain-English task, drives a real browser with Playwright, fills forms, verifies its own work with an independent checker, and asks a human before anything irreversible. Built for the CentrAlign AI Engineering Intern task — 11 steps, verified end-to-end, 23 tests passing.
-**Stack:** Python · Playwright · ReAct agent · PDF/file/API tools
+## Tech Stack
 
----
+- HTML
+- CSS (inline, in the same file)
+- A tiny inline script that opens the projects page
 
-## 🛠️ Tech Stack
+## How to Run
 
-**Languages:** C++ · Java · Python · C · JavaScript · SQL
-**Backend:** Node.js · Express.js · FastAPI · REST APIs
-**Databases:** PostgreSQL · MySQL · MongoDB
-**AI / Agents:** ReAct · RAG · Tool-calling · Vector search (HNSW, pgvector) · Playwright
-**Tools:** Linux · Git · GitHub
+Just open the file — no install, no server needed:
 
----
+```bash
+# Option 1: open directly in a browser
+open index.html
 
-## 📚 Experience
+# Option 2: serve it locally
+python3 -m http.server 8000
+# then visit http://localhost:8000
+```
 
-**Junior Researcher — IIIT Allahabad** *(May 2026 – July 2026, Prayagraj)*
-Built **NeuroPlay**, a full-stack AI-assisted web platform for gamified autism therapy across 6 interactive modules (cognitive, motor, socio-emotional), integrating real-time facial emotion recognition and body pose estimation with TensorFlow.js and FaceAPI for adaptive feedback during live therapy sessions.
+## Notes
 
-**College Placement Cell Executive — IIIT Allahabad**
-
----
-
-## 🏆 Achievements
-
-- **NTSE Stage-2 Scholar** — selected among the top 2,000 students nationwide out of over 1 million candidates.
-- **Amazon ML Summer School 2026** — selected among the top 3,000 students nationwide out of over 1.3 lakh candidates.
-- **JEE Main 2023 — AIR 8,786** among over 1 million candidates.
-- **Class XII (CBSE) — 94.4%** · **Class X — 96.16%**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iit2023271&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iit2023271&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 📫 Connect
-
-- **LinkedIn:** [linkedin.com/in/saladi-vishnu-vardhan-23146628b](https://linkedin.com/in/saladi-vishnu-vardhan-23146628b)
-- **Email:** vishnuvardhan31536@gmail.com
-- **GitHub:** [github.com/iit2023271](https://github.com/iit2023271)
-
----
-
-*Currently exploring SWE / AI Engineering internships. If you like what you see, let's talk.*
+- The page background images are loaded from an external URL, so they need an internet connection to display.
+- This is a standalone profile page. It is not the GitHub profile README — that lives in a separate repo.
