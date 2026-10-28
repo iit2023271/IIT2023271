@@ -1,10 +1,15 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saladi%20Vishnu%20Vardhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agents%20%7C%20Full-Stack%20Developer%20%7C%20IIIT%20Allahabad&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saladi%20Vishnu%20Vardhan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Agents%20%7C%20Full-Stack%20Developer%20%7C%20IIIT%20Allahabad&descAlignY=60&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI+agents+that+actually+work;Full-stack+web+apps%2C+end+to+end;B.Tech+IT+%40+IIIT+Allahabad+%7C+CGPA+8.71;Turning+ideas+into+working+software)](https://git.io/typing-svg)
+<p align="center">
+  <img src="profile-pic.jpg" width="280" style="border-radius: 24px; border: 3px solid #00D9FF;" alt="Saladi Vishnu Vardhan" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+actually+work;Full-stack+web+apps%2C+end+to+end;B.Tech+IT+%40+IIIT+Allahabad+%7C+CGPA+8.71;Turning+ideas+into+working+software;Code.+Ship.+Repeat.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iit2023271&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   <a href="https://github.com/iit2023271"><img src="https://img.shields.io/github/followers/iit2023271?label=Follow&style=social" alt="GitHub followers" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Full--Stack-00D9FF?style=flat-square" alt="Focus" />
 </p>
 
 ## 👋 About Me
@@ -16,6 +21,7 @@ I care about **working software, honest engineering, and code you can actually r
 - 🔭 Currently exploring **SWE / AI Engineering internships**
 - 🌱 Deep into **ReAct agents, RAG, and tool-calling**
 - 💡 I build to learn, and I learn by shipping
+- 🎨 I also design — Adobe After Effects, Premiere Pro, Photoshop
 - ⚡ Fun fact: I once rebuilt entire projects as **type-it-yourself books** so others can learn line by line
 
 ---
@@ -42,6 +48,9 @@ I care about **working software, honest engineering, and code you can actually r
 <p align="center">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -78,6 +87,19 @@ An autonomous **ReAct agent** that reads a plain-English task, drives a real bro
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iit2023271&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iit2023271&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+## 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iit2023271/IIT2023271/output/github-snake.svg" alt="Snake animation" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iit2023271&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
