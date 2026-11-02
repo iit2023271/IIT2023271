@@ -4,7 +4,7 @@
   <img src="profile-pic.jpg" width="280" style="border-radius: 24px; border: 3px solid #00D9FF;" alt="Saladi Vishnu Vardhan" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+actually+work;Full-stack+web+apps%2C+end+to+end;B.Tech+IT+%40+IIIT+Allahabad+%7C+Decent+CGPA;Turning+ideas+into+working+software;Code.+Ship.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+actually+work;Full-stack+web+apps%2C+end+to+end;B.Tech+IT+%40+IIIT+Allahabad+%7C+Decent+CGPA;Turning+ideas+into+working+software;Code.+Ship.+Repeat.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iit2023271&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
@@ -81,27 +81,16 @@ An autonomous **ReAct agent** that reads a plain-English task, drives a real bro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iit2023271&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iit2023271&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=iit2023271&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iit2023271&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iit2023271&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iit2023271&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iit2023271/IIT2023271/output/github-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iit2023271&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
