@@ -4,7 +4,7 @@
   <img src="profile-pic.jpg" width="280" style="border-radius: 24px; border: 3px solid #00D9FF;" alt="Saladi Vishnu Vardhan" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+actually+work;Full-stack+web+apps%2C+end+to+end;B.Tech+IT+%40+IIIT+Allahabad+%7C+CGPA+8.71;Turning+ideas+into+working+software;Code.+Ship.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+actually+work;Full-stack+web+apps%2C+end+to+end;B.Tech+IT+%40+IIIT+Allahabad+%7C+Decent+CGPA;Turning+ideas+into+working+software;Code.+Ship.+Repeat.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iit2023271&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
