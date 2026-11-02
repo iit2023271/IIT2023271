@@ -10,7 +10,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
